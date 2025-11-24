@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/nextjs": "^6.12.5",
+    "@clerk/nextjs": "^6.35.4",
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.15.0",
@@ -18,7 +18,7 @@
     "autoprefixer": "^10.4.16",
     "next": "15.2.3",
     "postcss": "^8.4.32",
-    "posthog-js": "^1.231.0",
+    "posthog-js": "^1.297.2",
     "react": "^19",
     "react-dom": "^19"
   },
